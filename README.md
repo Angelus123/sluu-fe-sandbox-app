@@ -1,5 +1,5 @@
 
-## FRONTEND SIDE
+## sluu-chat-app-frontend
 
 ### Technology tools for this Project
 * Framework : **Reactjs**
