@@ -1,13 +1,10 @@
 import "./App.css";
-import { BrowserRouter as Router } from 'react-router-dom';
-import Route from "./routes"
+import SandBox from "./component/SandBox/SandBox";
 
 function App() {
   return (
     <div className="App">
-      <Router>
-          <Route/>
-      </Router>
+      <SandBox/>
     </div>
   );
 }

@@ -68,13 +68,16 @@ module.exports = {
     },
     extend: {
       height: {
-        
         23: "26rem",
-        27: "32rem",
+        27: "50rem",
+        40:"40rem",
+        47:"47rem",
        
       },
       spacing: {
-        "3px": "15%",
+        "1/5": "15%",
+        "1/4": "25%",
+        "13":"5rem"
       },
       inset: {
         "0": 0,
